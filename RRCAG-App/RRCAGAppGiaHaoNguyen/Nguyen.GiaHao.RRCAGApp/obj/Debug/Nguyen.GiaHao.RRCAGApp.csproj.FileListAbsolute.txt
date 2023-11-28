@@ -1,0 +1,32 @@
+C:\RRC_Study\Term2\ADEV\Module 5\Assignment5\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\bin\Debug\Nguyen.GiaHao.RRCAGApp.exe.config
+C:\RRC_Study\Term2\ADEV\Module 5\Assignment5\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\bin\Debug\Nguyen.GiaHao.RRCAGApp.exe
+C:\RRC_Study\Term2\ADEV\Module 5\Assignment5\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\bin\Debug\Nguyen.GiaHao.RRCAGApp.pdb
+C:\RRC_Study\Term2\ADEV\Module 5\Assignment5\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\bin\Debug\ACE.BIT.ADEV.xml
+C:\RRC_Study\Term2\ADEV\Module 5\Assignment5\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\bin\Debug\Nguyen.GiaHao.Business.xml
+C:\RRC_Study\Term2\ADEV\Module 5\Assignment5\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\obj\Debug\Nguyen.GiaHao.RRCAGApp.csproj.AssemblyReference.cache
+C:\RRC_Study\Term2\ADEV\Module 5\Assignment5\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\obj\Debug\Nguyen.GiaHao.RRCAGApp.csproj.SuggestedBindingRedirects.cache
+C:\RRC_Study\Term2\ADEV\Module 5\Assignment5\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\obj\Debug\Nguyen.GiaHao.RRCAGApp.MainForm.resources
+C:\RRC_Study\Term2\ADEV\Module 5\Assignment5\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\obj\Debug\Nguyen.GiaHao.RRCAGApp.Properties.Resources.resources
+C:\RRC_Study\Term2\ADEV\Module 5\Assignment5\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\obj\Debug\Nguyen.GiaHao.RRCAGApp.csproj.GenerateResource.cache
+C:\RRC_Study\Term2\ADEV\Module 5\Assignment5\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\obj\Debug\Nguyen.GiaHao.RRCAGApp.csproj.CoreCompileInputs.cache
+C:\RRC_Study\Term2\ADEV\Module 5\Assignment5\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\obj\Debug\Nguyen.GiaHao.RRCAGApp.csproj.CopyComplete
+C:\RRC_Study\Term2\ADEV\Module 5\Assignment5\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\obj\Debug\Nguyen.GiaHao.RRCAGApp.exe
+C:\RRC_Study\Term2\ADEV\Module 5\Assignment5\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\obj\Debug\Nguyen.GiaHao.RRCAGApp.pdb
+C:\RRC_Study\Term2\ADEV\Module 5\Assignment5\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\obj\Debug\Nguyen.GiaHao.RRCAGApp.AboutForm.resources
+C:\RRC_Study\Term2\ADEV\Module 5\Assignment5\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\obj\Debug\Nguyen.GiaHao.RRCAGApp.SalesQuoteForm.resources
+C:\RRC_Study\Term2\ADEV\Module 6\Assignment 6\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\bin\Debug\Nguyen.GiaHao.RRCAGApp.exe.config
+C:\RRC_Study\Term2\ADEV\Module 6\Assignment 6\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\bin\Debug\Nguyen.GiaHao.RRCAGApp.exe
+C:\RRC_Study\Term2\ADEV\Module 6\Assignment 6\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\bin\Debug\Nguyen.GiaHao.RRCAGApp.pdb
+C:\RRC_Study\Term2\ADEV\Module 6\Assignment 6\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\obj\Debug\Nguyen.GiaHao.RRCAGApp.csproj.AssemblyReference.cache
+C:\RRC_Study\Term2\ADEV\Module 6\Assignment 6\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\obj\Debug\Nguyen.GiaHao.RRCAGApp.csproj.SuggestedBindingRedirects.cache
+C:\RRC_Study\Term2\ADEV\Module 6\Assignment 6\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\obj\Debug\Nguyen.GiaHao.RRCAGApp.AboutForm.resources
+C:\RRC_Study\Term2\ADEV\Module 6\Assignment 6\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\obj\Debug\Nguyen.GiaHao.RRCAGApp.CarWashForm.resources
+C:\RRC_Study\Term2\ADEV\Module 6\Assignment 6\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\obj\Debug\Nguyen.GiaHao.RRCAGApp.MainForm.resources
+C:\RRC_Study\Term2\ADEV\Module 6\Assignment 6\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\obj\Debug\Nguyen.GiaHao.RRCAGApp.Properties.Resources.resources
+C:\RRC_Study\Term2\ADEV\Module 6\Assignment 6\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\obj\Debug\Nguyen.GiaHao.RRCAGApp.SalesQuoteForm.resources
+C:\RRC_Study\Term2\ADEV\Module 6\Assignment 6\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\obj\Debug\Nguyen.GiaHao.RRCAGApp.csproj.GenerateResource.cache
+C:\RRC_Study\Term2\ADEV\Module 6\Assignment 6\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\obj\Debug\Nguyen.GiaHao.RRCAGApp.csproj.CoreCompileInputs.cache
+C:\RRC_Study\Term2\ADEV\Module 6\Assignment 6\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\obj\Debug\Nguyen.GiaHao.RRCAGApp.csproj.CopyComplete
+C:\RRC_Study\Term2\ADEV\Module 6\Assignment 6\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\obj\Debug\Nguyen.GiaHao.RRCAGApp.exe
+C:\RRC_Study\Term2\ADEV\Module 6\Assignment 6\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\obj\Debug\Nguyen.GiaHao.RRCAGApp.pdb
+C:\RRC_Study\Term2\ADEV\Module 6\Assignment 6\RRCAGAppGiaHaoNguyen\Nguyen.GiaHao.RRCAGApp\obj\Debug\Nguyen.GiaHao.RRCAGApp.CarWashInvoiceForm.resources
